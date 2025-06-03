@@ -1,4 +1,4 @@
-# Machine Learning y Tecnología Espacial Para el Monitoreo de Recursos Naturales 🛰️🌏
+# Machine Learning e Imágenes Satelitales para el Monitoreo de Recursos Naturales 🛰️🌏
 
 Bienvenido al repositorio del tutorial "Machine Learning y Tecnología Espacial Para el Monitoreo de Recursos Naturales". En este tutorial, aprenderás a utilizar técnicas de machine learning para procesar y analizar imágenes satelitales. Usaremos un Jupyter Notebook para guiarte a través de los pasos necesarios, desde la preparación de los datos hasta la implementación y evaluación de modelos de machine learning.
 
@@ -11,7 +11,7 @@ Este repositorio contiene los siguientes archivos:
 
 ## Requisitos
 
-Para seguir este tutorial, necesitarás tener instalado Python 3.8 o superior. Además, es necesario instalar las dependencias listadas en el archivo `requirements.txt`.
+Para seguir este tutorial, necesitarás tener instalado Python 3.10 o superior. Además, es necesario instalar las dependencias listadas en el archivo `requirements.txt`.
 
 ## Datos
 
@@ -21,7 +21,7 @@ Los datos utilizados en este tutorial fueron etiquetados utilizando [Deep-Hub�
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/mperezcarrasco/Tutorial_Sentinel2.git
+   git clone https://github.com/RiHernandezAlarcon/Tutorial_Summit_IAA_2025.git
    cd Tutorial_Sentinel2
    ```
 
