@@ -22,7 +22,7 @@ Los datos utilizados en este tutorial fueron etiquetados utilizando [Deep-HubðŸ›
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/RiHernandezAlarcon/Tutorial_Summit_IAA_2025.git
-   cd Tutorial_Sentinel2
+   cd Tutorial_Summit_IAA_2025
    ```
 
 2. **Crea un entorno virtual** (opcional, pero recomendado):
