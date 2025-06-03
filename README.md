@@ -1,6 +1,6 @@
 # Machine Learning e Imágenes Satelitales para el Monitoreo de Recursos Naturales 🛰️🌏
 
-Bienvenido al repositorio del tutorial "Machine Learning y Tecnología Espacial Para el Monitoreo de Recursos Naturales". En este tutorial, aprenderás a utilizar técnicas de machine learning para procesar y analizar imágenes satelitales. Usaremos un Jupyter Notebook para guiarte a través de los pasos necesarios, desde la preparación de los datos hasta la implementación y evaluación de modelos de machine learning.
+Bienvenido al repositorio del tutorial "Machine Learning e Imágenes Satelitales para el Monitoreo de Recursos Naturales". En este tutorial, aprenderás a utilizar técnicas de machine learning para procesar y analizar imágenes satelitales. Usaremos un Jupyter Notebook para guiarte a través de los pasos necesarios, desde la preparación de los datos hasta la implementación y evaluación de modelos de machine learning.
 
 ## Contenido del Repositorio
 
