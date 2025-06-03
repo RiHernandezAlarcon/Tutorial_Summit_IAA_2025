@@ -11,3 +11,4 @@ tifffile
 torch
 torchvision
 numpy==1.26
+notebook

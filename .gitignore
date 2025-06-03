@@ -2,4 +2,6 @@ SatelitalConcetion/
 postincendio_biobio_sentinel2/
 preincendio_biobio_sentinel2/
 datasets/
-
+env/
+.ipynb_checkpoints/
+*.tif
