@@ -11,7 +11,7 @@ Este repositorio contiene los siguientes archivos:
 
 ## Requisitos
 
-Se requiere Python 3.10 o superior (3.10 recomendado), junto con las dependencias listadas en requirements.txt.
+Se requiere Python 3.10 o superior (3.10 recomendado), junto con las dependencias listadas en `requirements.txt`.
 
 ## Datos
 
