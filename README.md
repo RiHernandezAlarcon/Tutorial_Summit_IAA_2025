@@ -11,7 +11,7 @@ Este repositorio contiene los siguientes archivos:
 
 ## Requisitos
 
-Para seguir este tutorial, necesitarás tener instalado Python 3.10 o superior. Además, es necesario instalar las dependencias listadas en el archivo `requirements.txt`.
+Se requiere Python 3.10 o superior (3.10 recomendado), junto con las dependencias listadas en `requirements.txt`.
 
 ## Datos
 
